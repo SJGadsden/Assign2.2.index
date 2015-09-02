@@ -1,0 +1,75 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url(http://www.crescenthomes.net/images/blogs/Bridge.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+header {
+  padding: 5px;
+  background-color: #333;
+}
+
+main {
+  padding: 0px;
+  background-color: 0;
+  margin-left: 180px;
+  margin-right: 15%;
+  /* margin-top: -122px */
+}
+
+h1 {
+  text-align: center;
+  font-family;
+  sans-serif;
+}
+
+h2.ruby {
+  text-align: left;
+  font-family;
+  sans-serif;
+}
+
+aside.img {
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  float: left;
+}
+
+aside {
+  position: relative;
+  padding: 5px;
+  float: left;
+  width: 140px;
+}
+
+body {
+  padding: 0;
+  margin: 0
+}
+
+footer p {
+  margin: 10px;
+  margin-bottom: 10px;
+  line-height: 160px;
+}
+
+footer {
+  clear: both;
+  color: white;
+}
+
+aside.foot-image {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: auto;
+  padding: 10px;
+}
